@@ -84,7 +84,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Contact
 
-For questions or support, please contact [rajupatil0199@gmai.com].
+For questions or support, please contact [kaustubhpatil870@gmail.com].
 #
 "# Chat-App-Project" 
 "# Chat-App-Project" 
